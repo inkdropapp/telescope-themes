@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Themes",
+          "submenu": [
+            {
+              "label": "Switch Theme…",
+              "command": "telescope-themes:show"
+            },
+            {
+              "label": "Toggle Light/Dark Theme",
+              "command": "telescope-themes:toggle-light-dark"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

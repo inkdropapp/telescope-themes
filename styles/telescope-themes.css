@@ -1,0 +1,21 @@
+.telescope-themes-swatch {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px var(--border-color) inset;
+}
+
+.telescope-themes-swatch-dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+}
+
+.telescope-themes-current {
+  font-size: 0.85em;
+  color: var(--muted-text-color);
+}

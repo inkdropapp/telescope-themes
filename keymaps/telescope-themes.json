@@ -1,0 +1,6 @@
+{
+  "body": {
+    "ctrl-alt-t": "telescope-themes:show",
+    "ctrl-alt-shift-t": "telescope-themes:toggle-light-dark"
+  }
+}
