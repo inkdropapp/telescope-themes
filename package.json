@@ -9,7 +9,7 @@
     "themes"
   ],
   "license": "MIT",
-  "repository": "https://github.com/inkdropapp/inkdrop-telescope-themes",
+  "repository": "https://github.com/inkdropapp/telescope-themes",
   "main": "./lib/index",
   "scripts": {
     "dev": "tsdown --watch",
