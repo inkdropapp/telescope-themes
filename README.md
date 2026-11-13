@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to [inkdropapp/plugins](https://github.com/inkdropapp/plugins): [`packages/telescope-themes`](https://github.com/inkdropapp/plugins/tree/main/packages/telescope-themes). It is archived and read-only; please open issues and pull requests there.
+
 # telescope-themes
 
 Switch between installed themes right from [Telescope](https://docs.inkdrop.app), Inkdrop's fuzzy finder — plus a one-keystroke light/dark toggle.
